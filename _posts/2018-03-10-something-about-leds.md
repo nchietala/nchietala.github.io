@@ -32,17 +32,13 @@ You should get a soldering iron. There are no-solder options in the world, but t
 
 To start with you need a power supply. *Not all power supplies are created equal!* You need a 12V supply that is rated to at least as many amps as you have meters of LED strip.
 
-![led-strip-closeup]
-![tinned-strip]
+<img src="images/leds/led-strip-closeup.jpg" width="300">
+<img src="images/leds/tinned-strip.jpg" width="300">
 1. Cut the end off of your power supply and strip the wires.
 2. Flux the pads.
 3. Put down a little solder onto each of the pads, positive and negative, be careful not to accidentally bridge them.
 4. Put a little solder onto the wires you intend to attach.
 5. While pressing the tinned wire into the pad, touch the pad briefly with the soldering iron, this will flow the solder on the pad and wire together, and create a strong electrical connection.
-![soldered-strip]
+<img src="images/leds/soldered-strip.jpg" width="400">
 
 That's it! you've soldered a wire to your strip!
-
-[led-strip-closeup]:images/leds/led-strip-closeup.jpg
-[tinned-strip]:images/leds/tinned-strip.jpg
-[soldered-strip]:images/leds/soldered-strip.jpg
