@@ -2,8 +2,8 @@
 layout: post
 title: "Something About LEDs"
 description: "LED strips make life better... if you have a soldering iron."
-tags: [sample post, video]
-categories: [intro]
+tags: [lighting, leds]
+categories: [lighting]
 ---
 
 ## I'm new to lighting, what is that?
