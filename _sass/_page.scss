@@ -8,6 +8,14 @@ body {
 
 // Main
 // --------------------------------------------------
+.background {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	background-image: url(/images/background.jpg);
+	z-index: -1;
+}
 .entry,
 .hentry {
 	@include clearfix;
