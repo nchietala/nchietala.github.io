@@ -32,14 +32,14 @@ You should get a soldering iron. There are no-solder options in the world, but t
 
 To start with you need a power supply. *Not all power supplies are created equal!* You need a 12V supply that is rated to at least as many amps as you have meters of LED strip. I often shop at a local used bookstore and they have a vast stock of Microsoft Kinect power supplies for about $2 each. These work great, they're switching mode 12v power supplies (smaller and more efficient than transformers) that are rated to 1.08 amps which is enough for 21 segments, just over 1 meter.
 
-<img src="images/leds/led-strip-closeup.jpg" width="300">
-<img src="images/leds/tinned-strip.JPG" width="300">
+<img src="/images/leds/led-strip-closeup.jpg" width="300">
+<img src="/images/leds/tinned-strip.JPG" width="300">
 1. Cut the 12v connector off of your power supply and strip the wires.
 2. Flux the pads.
 3. Put down a little solder onto each of the pads, positive and negative, be careful not to accidentally bridge them.
 4. Put a little solder onto the wires you intend to attach.
 5. While pressing the tinned wire into the pad, touch the pad briefly with the soldering iron, this will flow the solder on the pad and wire together, and create a strong electrical connection.
 
-<img src="images/leds/soldered-strip.JPG" width="400">
+<img src="/images/leds/soldered-strip.JPG" width="400">
 
 That's it! you've soldered a wire to your strip!
