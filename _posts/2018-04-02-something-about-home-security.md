@@ -4,6 +4,7 @@ title: "Something About Home Security"
 description: "When burglars would take less than security would cost"
 tags: [modding, soldering, raspberry pi, security, DIY]
 categories: [security]
+permalink: /security/mydiy
 ---
 
 ## So expensive...

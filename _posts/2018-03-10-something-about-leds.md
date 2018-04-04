@@ -4,6 +4,7 @@ title: "Something About LEDs"
 description: "LED strips make life better... if you have a soldering iron."
 tags: [lighting, leds]
 categories: [lighting]
+permalink: /lighting/leds
 ---
 
 ## I'm new to lighting, what is that?
